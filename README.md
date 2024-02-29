@@ -113,4 +113,3 @@ Feel free to connect—I’m always up for a good tech chat! 😊👋
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
